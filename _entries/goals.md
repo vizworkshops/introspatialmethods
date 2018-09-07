@@ -1,5 +1,5 @@
 ---
-sectionclass: h1
+sectionclass: h2
 sectionid: goals
 parent-id: introduction
 is-parent: yes
