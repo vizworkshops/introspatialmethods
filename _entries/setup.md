@@ -1,6 +1,6 @@
 ---
-sectionclass: h3
 sectionid: setup
+sectionclass: h3
 parent-id: goals
 number: 1110
 title: Setup

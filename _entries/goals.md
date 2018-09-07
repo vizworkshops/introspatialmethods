@@ -1,6 +1,6 @@
 ---
-sectionclass: h2
 sectionid: goals
+sectionclass: h2
 parent-id: introduction
 is-parent: yes
 number: 1100

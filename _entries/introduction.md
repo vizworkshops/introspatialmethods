@@ -1,9 +1,9 @@
 ---
-sectionclass: h1
+
 sectionid: introduction
-parent-id: introduction
+sectionclass: h1
 is-parent: yes
+title: Introduction
 number: 1000
-title: 
 ---
 Welcome to Digital Mapping Ecosystems. This workshop . . .
