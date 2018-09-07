@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Docster Documentation
-author: DigitalMind
+name: Digital Mapping Ecosystems
+author: Andy Rutkowski
 version: V 1.0
 encoding: utf-8
 defaults:
