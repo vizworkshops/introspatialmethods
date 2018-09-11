@@ -6,7 +6,9 @@ title: Project Design
 number: 2000
 ---
 
-What makes a good project? The easiest answer is a meaningful question or inquiry. For this workshop we will use Los Angeles as our site of analysis.
+What makes a good project? 
+
+The easiest answer is a meaningful question or inquiry. For this workshop we will use Los Angeles as our site of analysis.
 
 A couple of great examples of a digital mapping projects are South Carolina's Green Book project and the Digital Scholarship Lab at the University of Richmond American Panorama Project:
 
