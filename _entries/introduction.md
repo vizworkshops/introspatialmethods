@@ -10,14 +10,4 @@ title: Introduction
 Welcome to Digital Mapping Ecosystems. This workshop . . .
 
 
-
-
-
-
-
-
-
-
-
-
 hi there
