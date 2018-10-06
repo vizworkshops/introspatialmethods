@@ -1,26 +1,30 @@
 ---
-sectionid: project design 
+sectionid: What makes a good project? 
 sectionclass: h1
 is-parent: yes
-title: Project Design
+title: What makes a good project?
 number: 2000
 ---
 
-What makes a good project? 
+What makes for a good project? 
 
-The easiest answer is a meaningful question or inquiry. For this workshop we will use Los Angeles as our site of analysis.
+Good projects are meaningful and impactful. They make you stop and ask questions. A digital project provides a way to directly communicate that meaning and impact.
 
-A couple of great examples of a digital mapping projects are South Carolina's Green Book project and the Digital Scholarship Lab at the University of Richmond American Panorama Project:
+Two model projects that have helped to inform this workshop are South Carolina's Green Book project and the Digital Scholarship Lab at the University of Richmond American Panorama project:
 
-[Green Book project](http://library.sc.edu/digital/collections/greenbook.html)
+[Green Book project](https://delphi.tcl.sc.edu/library/digital/collections/greenbook.html)
+
 [American Panorama Project](https://dsl.richmond.edu/panorama/)
+
+These two projects take existing archival materials, process them so they can be made accessible online, and do so in a seamless way so that individuals can interact, learn, and ask questions through them. 
 
 We will use these projects as starting points and attempt to recreate them on a smaller more local level.
 
 For this example project we want to learn more about the history of Los Angeles through the lens of the GreenBook. We will use the following data to build out our project:
 
-a dataset created by pulling data from the GreenBook
-georeferenced historical maps of Los Angeles
+A dataset created from the GreenBook
+Georeferenced historical maps of Los Angeles
 Los Angeles Times neighborhood boundary data
 Historical HOLC (Insurance map) boundary and rating data
-Using these datasets we will create a digital project that will let us explore Los Angeles and provide opportunities for meaningful engagement, interpretation, discovery, and critical thinking.
+
+Using these datasets we will create a digital project that will let us explore Los Angeles and provide opportunities for meaningful engagement, interpretation, discovery, and critical thinking. Moreover, the project is replicable and can be adapted to other cities and communities. 
