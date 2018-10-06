@@ -22,9 +22,9 @@ We will use these projects as starting points and attempt to recreate them on a 
 
 For this example project we want to learn more about the history of Los Angeles through the lens of the GreenBook. We will use the following data to build out our project:
 
-A dataset created from the GreenBook
-Georeferenced historical maps of Los Angeles
-Los Angeles Times neighborhood boundary data
-Historical HOLC (Insurance map) boundary and rating data
+* A dataset created from the GreenBook
+* Georeferenced historical maps of Los Angeles
+* Los Angeles Times neighborhood boundary data
+* Historical HOLC (Insurance map) boundary and rating data
 
 Using these datasets we will create a digital project that will let us explore Los Angeles and provide opportunities for meaningful engagement, interpretation, discovery, and critical thinking. Moreover, the project is replicable and can be adapted to other cities and communities. 
