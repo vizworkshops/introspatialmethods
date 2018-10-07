@@ -50,7 +50,7 @@ Geotiffs:
 2.
 
 Resources:
-1. LA Times article using Watts Map - http://graphics.latimes.com/watts-riots-1965-map/
-2. Richmond Panoroma project - https://dsl.richmond.edu/panorama/redlining/#loc=9/34.0050/-118.1565&opacity=0.8&city=los-angeles-ca
-3. QGIS tutorial for georeferencing - https://docs.qgis.org/2.18/en/docs/training_manual/forestry/map_georeferencing.html
+1. [LA Times article using Watts Map](http://graphics.latimes.com/watts-riots-1965-map/)
+2. [Richmond Panoroma project](https://dsl.richmond.edu/panorama/redlining/#loc=9/34.0050/-118.1565&opacity=0.8&city=los-angeles-ca)
+3. [QGIS tutorial for georeferencing](https://docs.qgis.org/2.18/en/docs/training_manual/forestry/map_georeferencing.html)
 
