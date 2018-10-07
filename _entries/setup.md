@@ -19,10 +19,10 @@ Carto is free for students and researchers. After you create a CARTO account you
 
 [Student Developer Pack via GitHub provides access to free CARTO account](https://education.github.com/pack)
 
-* MapBox - Limited free account for everyone. For research purposes it will likely be more than enough for almost any project.
+**MapBox** - Limited free account for everyone. For research purposes it will likely be more than enough for almost any project.
 
 [Sign up for Mapbox account](https://www.mapbox.com/signup/)
 
-* GitHub - Free for everyone
+**GitHub** - Free for everyone
 
 [Sign up for GitHub account](https://github.com/join?source=header-home)
