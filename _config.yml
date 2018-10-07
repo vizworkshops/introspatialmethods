@@ -7,7 +7,7 @@ defaults:
   -
     values:
       layout: "index"
-markdown: kramdown
+markdown: markdown
 kramdown:
   input: GFM
 relative_permalinks: false
