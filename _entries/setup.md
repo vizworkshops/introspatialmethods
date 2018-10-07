@@ -9,12 +9,16 @@ We will be using 3 different tools during this workshop - CARTO, MapBox, and Git
 
 1. CARTO free for students and researchers
 
-   [30 Day free sign up](https://carto.com/signup/)
+   [Free 30 days of CARTO sign up](https://carto.com/signup/) After you create a CARTO account you will be able to apply for an ambassador or a researcher account. For those who already have projects in CARTO you can make the request to become an ambassador or researcher. For new users to CARTO after this workshop you will be able to point to this project as an example of your work. Researchers or Ambassadors get special CARTO accounts with features and larger data storage. According to CARTO "to qualify, you must be an individual working on non-commercial projects and having a considerable impact in your community."
+   
+   [Carto Ambassador and Researcher Accounts](https://carto.com/community/ambassadors/)
+
 
 2. MapBox - Limited free account for everyone. For research purposes it will likely be more than enough for almost any project.
 
-   [Sign up](https://www.mapbox.com/signup/)
+   [Sign up for Mapbox account](https://www.mapbox.com/signup/)
+
 
 3. GitHub - Free for everyone
 
-   [sign up](https://github.com/join?source=header-home)
+   [Sign up for GitHub account](https://github.com/join?source=header-home)
