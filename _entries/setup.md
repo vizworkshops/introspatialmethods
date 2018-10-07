@@ -9,10 +9,10 @@ We will be using 3 different tools during this workshop - CARTO, MapBox, and Git
 
 CARTO - Free for students and researchers
 
-     + [30 Day free sign up](https://carto.com/signup/)
+   [30 Day free sign up](https://carto.com/signup/)
 MapBox - Limited free account for everyone. For research purposes it will likely be more than enough for almost any project.
 
-     + Mapbox [Sign up](https://www.mapbox.com/signup/)
+   [Sign up](https://www.mapbox.com/signup/)
 GitHub - Free for everyone
 
-     + GitHub [sign up](https://github.com/join?source=header-home)
+   [sign up](https://github.com/join?source=header-home)
