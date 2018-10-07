@@ -13,6 +13,7 @@ You will get a basic understanding of these types of different data, specificall
 Smaller files have been placed in a GitHub repo. Larger Geotiffs (historical maps) have been placed in a Google Drive.
 
 **CSV**
+
 CSV files are your friends. They can be used in virtually every type of tool or software. For mapping purposes they only need to contain two types of information in order to be used: 
 1. Latitude and Longitude coordinates allow an individual record to be located on a map as a point. Latitude and Longitude can be generated through the process of geocoding. Geocoding can be an automated process if your CSV records have known addresses. If not, you can manually add latitude and longitude. For historical research the process can often times be both automated and then manually checked to ensure that the locations are accurate. 
 2. You do not need to have latitude and longitude data in a CSV file in order to visualize data on a map. If you have a column that contains geographic information, for example a census tract or a neighborhood, and you also have a corresponding data layer of that census tract or neighborhood then you can join your CSV file to that other file and visualize your data within the stated boundary.  
@@ -24,12 +25,14 @@ CSV files that we will be using:
 2. Greenbook1947
 
 **Geojson**
-Geojson is also your friend! [Geojson is an open standard](https://en.wikipedia.org/wiki/GeoJSON) that displays different types of features. For this workshop we will be working with polygon boundaries in order to show neighborhoods and other distinct geographic areas. The HOLC_LosAngeles.geojson files is a geojson file which is a geographic encoding format. 
+
+Geojson are also your friend! [Geojson is an open standard](https://en.wikipedia.org/wiki/GeoJSON) that displays different types of features. For this workshop we will be working with polygon boundaries in order to show neighborhoods and other distinct geographic areas. The HOLC_LosAngeles.geojson files is a geojson file which is a geographic encoding format. 
 
 Geojson files that we will be using:
 
 
 **ESRI Shapefile**
+
 ESRI Shapefiles are a propreity format that primarily work with ArcGIS but can also be used in different software including QGIS and CARTO. For this workshop we will work with one ESRI Shapefile in order to see the difference between it and an Geojson file. The biggest difference being that a shapefile is comprised of multiple files instead of just one file. This poses some challenges and 
 The la_county-neigbhorhoods-v6.zip file contains a shapefile, which is a vector data format developed by ESRI. The shapefile format requires specialized software to be opened. CARTO allows for shapefiles (up to a certain size) to be uploaded as long as they are zipped. 
 
@@ -37,6 +40,7 @@ ESRI Shapefile that we will be using:
 
 
 **Geotiffs**
+
 Geotiffs are amazing, espeically for humanities oriented spatial research. A geotiff is an image file that has been georeferenced using GIS software such as ArcGIS or QGIS. Georeferencing or georectifying an image means that the image has had control points assigned to it so that it can be placed into a specific geographic location by software, such as MapBox. We will be working with Geotiffs and we will not be georeferencing any images. 
 
 Geotiffs are usually larger files and because of this you will need to access them via a Google Drive. 
