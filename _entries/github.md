@@ -15,5 +15,8 @@ This GitHub model is meant to be an exploratory one. This is NOT about long term
 * [Cushman Photo Metadata at Indiana University Libraries](https://github.com/iulibdcs/cushman_photos)
 * [Example of a QGIS Tutorial](https://github.com/mltConsEcol/QGIS-Tutorial)
 
+For this workshop I have created a GitHub repository that has some data as well as some sample html. Using GitHub you can publish this html code and create different maps. 
 
+Everyone will fork this GitHub repoository and be able to adapt and use it for their own purposes.
 
+[DLF 2018 Digital Mapping Ecosystems Repo](https://github.com/andyrutkowski/dlf2018dme)
