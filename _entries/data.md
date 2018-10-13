@@ -30,14 +30,21 @@ Geojson are also your friend! [Geojson is an open standard](https://en.wikipedia
 
 Geojson files that we will be using:
 
+1. HOLC_LosAngeles
+This file was downloaded from the [American Panorama project](https://dsl.richmond.edu/panorama/redlining/#loc=9/34.0050/-118.1565&opacity=0.8&city=los-angeles-ca). This project provides access to original scan maps of the Homeowner's Loan Corporation, georeferenced maps, and area descriptions with polygons.
+2. la-county-neighborhoods-v6
+This file was downloaded from the LATimes [Mapping LA Boundaries API](http://boundaries.latimes.com/sets/).
+
 
 **ESRI Shapefile**
 
 ESRI Shapefiles are a propreity format that primarily work with ArcGIS but can also be used in different software including QGIS and CARTO. For this workshop we will work with one ESRI Shapefile in order to see the difference between it and an Geojson file. The biggest difference being that a shapefile is comprised of multiple files instead of just one file. This poses some challenges and 
 The la_county-neigbhorhoods-v6.zip file contains a shapefile, which is a vector data format developed by ESRI. The shapefile format requires specialized software to be opened. CARTO allows for shapefiles (up to a certain size) to be uploaded as long as they are zipped. 
 
-ESRI Shapefile that we will be using:
+ESRI Shapefile that is provided:
 
+1. la-county-neighborhoods-v6_shapefile
+This file was downloaded from the LATimes [Mapping LA Boundaries API](http://boundaries.latimes.com/sets/). It was renamed to indicate that is a shapefile. In order to be used in CARTO the zipped file must be uploaded. In order to be used in ArcGIS or QGIS you unzip the folder and open the .shp file.
 
 **Geotiffs**
 
@@ -46,8 +53,10 @@ Geotiffs are amazing, espeically for humanities oriented spatial research. A geo
 Geotiffs are usually larger files and because of this you will need to access them via a Google Drive. 
 
 Geotiffs:
-1.
-2.
+1. HOLCCentralLA
+This was downloaded from the [American Panorama project](https://dsl.richmond.edu/panorama/redlining/#loc=9/34.0050/-118.1565&opacity=0.8&city=los-angeles-ca).
+2. Watts1965 
+This map was downloaded as part of a MaptimeLA workshop that was inspired by this LA Times story, [Inside the Watts Curfew Zone](http://graphics.latimes.com/watts-riots-1965-map/).
 
 Resources:
 1. [LA Times article using Watts Map](http://graphics.latimes.com/watts-riots-1965-map/)
