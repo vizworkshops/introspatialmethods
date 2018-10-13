@@ -20,6 +20,6 @@ These two projects take existing archival materials, process them so they can be
 
 We will use these projects as starting points and attempt to recreate them on a local level.
 
-For this example project we want to learn more about the history of Los Angeles through the lens of the GreenBook. We will use data that will create points for where Greenbook establishments existed, boundaries from the Homeowner's Loan Corporation, current neigbhorhood boundaries, and an image overlay of historical maps including the HOLC map. This data provides a great introduction to different types of geospatial data as important geospatial processes including geocoding, georeferencing, and spatial joins. 
+For this example project we want to learn more about the history of Los Angeles through the lens of the GreenBook. We will use data that will create points for where Greenbook establishments existed, boundaries from the Homeowner's Loan Corporation, current neigbhorhood boundaries, and an image overlay of historical maps including the HOLC map. This data provides a great introduction to different types of geospatial data and important geospatial processes including geocoding, georeferencing, and spatial joins. 
 
 Through these datasets we will create a digital project that will let us explore Los Angeles and provide opportunities for meaningful engagement, interpretation, discovery, and critical thinking. Moreover, the project is replicable and can be adapted to other cities and communities. 
