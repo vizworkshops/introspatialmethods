@@ -21,6 +21,6 @@ We will be using 3 different tools during this workshop - CARTO, MapBox, and Git
 
 [Sign up for Mapbox account](https://www.mapbox.com/signup/)
 
-**GitHub** - Free for everyone
+**GitHub** - Free for everyone. Some limits on file size uploads. Anything you publish is publically accessible by others.
 
 [Sign up for GitHub account](https://github.com/join?source=header-home)
