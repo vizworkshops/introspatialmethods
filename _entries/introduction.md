@@ -2,8 +2,7 @@
 sectionid: introduction
 sectionclass: h1
 is-parent: yes
-title: Introduction  
-
+title: Introduction . 
 number: 1000
 title: Introduction
 ---
