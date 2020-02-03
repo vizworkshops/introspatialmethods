@@ -7,6 +7,15 @@ number: 1000
 title: Introduction
 ---
 
-Welcome to Digital Mapping Ecosystems! This workshop is both an introduction to critical cartography practices and a hands-on tutorial that will guide you throught the process of creating and sharing a digital mapping project. This site provides complete documentation for the workshop.
+Welcome to an introduction to spatial methods and thinking. 
 
-This workshop is a work in progress and the site will be updated accordingly. 
+This workshop provides an introduction to anyone interested in mapping, GIS, and spatial methods for research. 
+
+Please take this survey before the workshop or before using the materials:
+
+--------------------link to survey--------------------
+
+
+
+
+ 
