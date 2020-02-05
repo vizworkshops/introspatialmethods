@@ -6,6 +6,9 @@ title: Introduction .
 number: 1000
 title: Welcome
 ---
+**[Brief survey before we start](https://docs.google.com/forms/d/e/1FAIpQLSeidNE-hmsErEK2pBoFEOZd0oH51MBqWy9Kp0RMFKCiSWfR4g/viewform?usp=sf_link)**
+
+
 
 Welcome to this very introductory workshop (two parts) to spatial methods and thinking. The materials found here are a companion to an in-person workshop.
 
@@ -17,7 +20,6 @@ After this workshop participants should feel confident to start exploring how GI
 
 
 
-[Brief survey before we start](https://docs.google.com/forms/d/e/1FAIpQLSeidNE-hmsErEK2pBoFEOZd0oH51MBqWy9Kp0RMFKCiSWfR4g/viewform?usp=sf_link)
 
 
 
