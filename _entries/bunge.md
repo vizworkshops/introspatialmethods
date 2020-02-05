@@ -4,7 +4,7 @@ sectionclass: h2
 parent-id: welcome
 is-parent: yes
 title: Bunge and being a neighbor
-number: 1300
+number: 1400
 ---
 
 Another powerful thought that I have found that is not as commonly known or cited comes from a book entitled, "Fitzgerald Geography of a Revolution," by William Bunge. Published in 1971 this book is a study about a single neigbhorhood through interviews, archival materials, maps, and the intensive study of place and space. One of the most impactful parts of the book that I have found applicable to GIS and spatial thinking is this thought:
