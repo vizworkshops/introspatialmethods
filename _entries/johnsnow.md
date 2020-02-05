@@ -25,8 +25,8 @@ The context is a cholera outbreak in London in 1854. At the time the prevailing 
 
 Resources:
 
-[UCLA Dept. of Epidemiology John Snow site](https://www.ph.ucla.edu/epi/snow.html#MAPPING)
-[Guardian article on, "John Snow's data jounralism: The cholera map that changed the world](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map)
+[UCLA Dept. of Epidemiology John Snow site](https://www.ph.ucla.edu/epi/snow.html#MAPPING)  
+[Guardian article on, "John Snow's data jounralism: The cholera map that changed the world](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map)  
 [Wikipedia John Snow site](https://en.wikipedia.org/wiki/John_Snow)
 
 
