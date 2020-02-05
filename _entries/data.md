@@ -6,9 +6,7 @@ title: Data
 number: 3000
 ---
 
-Data is critical to GIS and mapping.
-
-There is an incredily rich and diverse world of geospatial data.
+Data is critical to GIS and mapping. There is an incredily rich and diverse world of geospatial data.
 
 Geospatial data is broken up primarily into two worlds:
 
@@ -18,6 +16,7 @@ Geospatial data is broken up primarily into two worlds:
 Raster data is basically an image file which contains pixels that displays your data. Raster data can be satellite imagery, it can be a digital elevation models (DEM), or an image file like a TIFF. Raster data lends itself well to representing the physical world.
 
 ![Example of a raster grid showing pixels - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/rasterdata.png)
+![A raster image showing elevation in Los Angeles - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/rasterla.png)
 
 [QGIS Documentation about rasters](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/raster_data.html)
 
