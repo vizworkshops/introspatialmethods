@@ -17,7 +17,7 @@ Raster data is basically an image file which contains pixels that displays your 
 
   
  | 
-Raster grid showing pixels | Raster showing elevation in Los Angeles
+**Raster grid showing pixels** | **Raster showing elevation in Los Angeles**
 - | -
 ![Example of a raster grid showing pixels - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/rasterdata.png) | ![A raster image showing elevation in Los Angeles - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/rasterla.png)
 
