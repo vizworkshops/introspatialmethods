@@ -33,7 +33,7 @@ In addition to these, the most common additional data that is used in GIS is tab
 
 
 
-**Resources:**
+**Resources:**  
 [A gentle introduction in GIS via QGIS](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/index.html)  
 
 [QGIS Documentation about rasters](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/raster_data.html)
