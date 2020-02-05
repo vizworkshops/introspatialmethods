@@ -18,6 +18,7 @@ Discussion:
 
 
 How do you understand this observation? Apply and explain in your own experience of the world.
+[Ted Talk on Happy Mapping](https://www.ted.com/talks/daniele_quercia_happy_maps?language=en)
 
 ![New Yorker cover View of the world from Ninth Avenue by Saul Steinberg](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/newyorkerviewfromny.png){:height="60%" width="60%"}
 
