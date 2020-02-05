@@ -23,8 +23,5 @@ What happens with the data that we use or create?
 
 Resources:
 
-[GIS: Commercialization of Public Information
-Human Geography
-Volume 4, Number 3, 2011]
-(https://hugeog.com/v4n3-gis-commercialization-public-information/)
+[GIS: Commercialization of Public Information, Human Geography, Volume 4, Number 3, 2011](https://hugeog.com/v4n3-gis-commercialization-public-information/)
 
