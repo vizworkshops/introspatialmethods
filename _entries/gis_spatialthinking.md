@@ -1,7 +1,7 @@
 ---
 sectionid: GIS + Spatial Thinking
 sectionclass: h2
-parent-id: introduction
+parent-id: welcome
 is-parent: yes
 number: 1100
 title: GIS + Spatial Thinking
