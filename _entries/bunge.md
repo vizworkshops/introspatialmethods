@@ -12,8 +12,10 @@ Another powerful thought that I have found that is not as commonly known or cite
 
     > "impossible to understand the neighborhood without being a neighbor"  
     
-Map showing data of where children have died by automobiles | Same data, different map and title
-![Police map showing children death by automobile - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/policereportmap.png) | ![Same data but different perspective - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/bungecountermap.png)
+  
+  
+**Map showing data of where children have died by automobiles** | **Same data, different map and title**
+ ![Police map showing children death by automobile - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/policereportmap.png) |  ![Same data but different perspective - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/bungecountermap.png)
 
 
 
