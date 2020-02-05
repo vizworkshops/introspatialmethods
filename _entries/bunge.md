@@ -28,5 +28,5 @@ Is it always possible to be a neighbor?
 
 Resources:
 
-[Phil Cohen commentary on six maps from Fitzgeral](http://livingmaps.review/journal/index.php/LMR/article/download/59/99)
+[Phil Cohen commentary on six maps from Fitzgerald](http://livingmaps.review/journal/index.php/LMR/article/download/59/99)
 
