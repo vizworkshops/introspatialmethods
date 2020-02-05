@@ -8,13 +8,26 @@ number: 3000
 
 Data is critical to GIS and mapping.
 
-There is an incredily rich and diverse world of geospatial datateypes. Some of the most common include CSV, Geojson, Shapefiles, and Geotiffs.
+There is an incredily rich and diverse world of geospatial data.
 
-Perhaps even more importantly, is understanding what these files can create:
-points
-lines
-polygons
-raster images
+Geospatial data is broken up primarily into two worlds:
+
+- Raster
+- Vector
+
+Raster data is basically an image file which contains pixels that displays your data. Raster data can be satellite imagery, it can be a digital elevation models (DEM), or an image file like a TIFF. Raster data lends itself well to representing the physical world.
+
+![Example of a raster grid showing pixels - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/rasterdata.png)
+
+[QGIS Documentation about rasters](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/raster_data.html)
+
+
+
+Vector data uses geometry to create points, lines, and polygons. 
+
+In addition to these, the most common additional data that is used in GIS is tabular data, such as a CSV or excel spreadsheet. Tabular data can have any number of variables which can be joined to 
+
+
 
 
 **CSV**
@@ -35,6 +48,8 @@ ESRI Shapefiles are a propreity format that primarily work with ArcGIS but can a
 Geotiffs are amazing, espeically for humanities oriented spatial research. A geotiff is an image file that has been georeferenced using GIS software such as ArcGIS or QGIS. Georeferencing or georectifying an image means that the image has had control points assigned to it so that it can be placed into a specific geographic location by software, such as MapBox. 
 
 
+
+https://thetruesize.com/#?borders=1~!MTM3Njc1ODQ.MjA0MjQ4NQ*MjQzMzMxMjE(NjM1MDY5OQ~!GL*MTAyMzA5NTg.MTUyNjUwNA)Mw
 
 Resources:
 1. [LA Times article using Watts Map](http://graphics.latimes.com/watts-riots-1965-map/)
