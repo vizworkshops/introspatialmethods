@@ -16,10 +16,10 @@ Discussion:
 
 The context is a cholera outbreak in London in 1854. At the time the prevailing thought was that cholera was spread through the air. John Snow had a different theory.
 
-* Looking at the map above, describe what you see.
-* What is being mapped and how?
-* What relationships do you see?
-* Do you observe any surprises? 
++ Looking at the map above, describe what you see.
++ What is being mapped and how?
++ What relationships do you see?
++ Do you observe any surprises? 
 
 
 
