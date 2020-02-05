@@ -3,7 +3,7 @@ sectionid: Food for thought
 sectionclass: h1
 is-parent: yes
 title: Food for thought
-number: 7000
+number: 6000
 ---
 
 Interesting Projects:  
