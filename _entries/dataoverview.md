@@ -10,8 +10,8 @@ Data is critical to GIS and mapping. There is an incredily rich and diverse worl
 
 Geospatial data is broken up primarily into two worlds:
 
-- Raster
-- Vector
++ Raster
++ Vector
 
 Raster data is basically an image file which contains pixels that displays your data. Raster data can be satellite imagery, it can be a digital elevation models (DEM), or an image file like a TIFF. Raster data lends itself well to representing the physical world.  
 
