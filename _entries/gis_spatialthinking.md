@@ -15,14 +15,15 @@ Spatial thinking on the other hand does not require a GIS. Spatial thinking is a
 
 If you do need to make a map then critically approaching the mapmaking process is essential. Digital and analog mapmaking have critical approaches that emphasize ethical practices when working with data and representing place and space. 
 
-Counter-mapping
+-->>Counter-mapping
 
-Deficit mapping
+-->>Deficit mapping
 
-Thick mapping
+-->>Thick mapping
 
-Spatial humanities
+-->>Spatial humanities  
 
+Discussion: How have you already used spatial thinking in your own research? Have you used any GIS technologies or tools? How have you used them?
 
 
 
