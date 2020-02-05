@@ -3,7 +3,7 @@ sectionid: Mapping Problems
 sectionclass: h1
 is-parent: yes
 title: Mapping Problems
-number: 4000
+number: 5000
 ---
 
 GIS poses some unique problems. Two things to think about when mapping and looking at maps are:
