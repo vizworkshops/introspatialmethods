@@ -1,8 +1,8 @@
 ---
-sectionid: Mapping Problems
+sectionid: Unique Issues
 sectionclass: h1
 is-parent: yes
-title: Mapping Problems
+title: Unique Issues
 number: 4000
 ---
 
@@ -22,7 +22,7 @@ How can distortion of places have an impact on an issue?
 
 
 
-MAUP is another important challenge to consider when mapping. It is especially important when you begin mapping and have data that is represented within boundaries such as neigbhorhoods, zip codes, or any other type of defined area. Zip codes are a notorious mapping problem as oftentimes it is easy to map a certain variable using a zip code boundary.
+MAUP is another important challenge to consider when mapping. It is especially important when you begin mapping and have data that is represented within boundaries such as neighborhoods, zip codes, or any other type of defined area. Zip codes are a notorious mapping problem as oftentimes it is easy to map a certain variable using a zip code boundary.
 
 Discussion point:
 
