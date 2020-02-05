@@ -21,23 +21,24 @@ Raster data is basically an image file which contains pixels that displays your 
 - | -
 ![Example of a raster grid showing pixels - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/rasterdata.png) | ![A raster image showing elevation in Los Angeles - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/rasterla.png)
 
-[QGIS Documentation about rasters](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/raster_data.html)
+Vector data on the otherhand uses geometry to create points, lines, and polygons. Vector data has geographic data that a GIS can read in order to place it within a map. The data will also have attribute information that describes that data. In the example below street outlines have been created by locating them using geographic information, latitutude and longitude. In addition to that information which results in the creation of lines, additional attribute data provides more information about those lines. In this case the lines are categorized by whether or not they permit dwelling, do not permit dwelling, or do not permit dwelling overnight. 
 
 
-Vector data uses geometry to create points, lines, and polygons. 
+![Example of vector data maps - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/vectordataexample.png){:height="60%" width="60%"}
 
 
 
-In addition to these, the most common additional data that is used in GIS is tabular data, such as a CSV or excel spreadsheet. Tabular data can have any number of variables which can be joined to 
+In addition to these, the most common additional data that is used in GIS is tabular data, such as a CSV or excel spreadsheet. Tabular data can have any number of variables which can be joined to already created vector data. For example, if you had additional data about the number of dwellings on each individual street you could "join" that data and then visualize it. 
 
 
 
 
 **Resources:**
-[A gentle introduction in GIS via QGIS](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/index.html)
+[A gentle introduction in GIS via QGIS](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/index.html)  
+
+[QGIS Documentation about rasters](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/raster_data.html)
 
 
-https://thetruesize.com/#?borders=1~!MTM3Njc1ODQ.MjA0MjQ4NQ*MjQzMzMxMjE(NjM1MDY5OQ~!GL*MTAyMzA5NTg.MTUyNjUwNA)Mw
 
 Resources:
 1. [LA Times article using Watts Map](http://graphics.latimes.com/watts-riots-1965-map/)
