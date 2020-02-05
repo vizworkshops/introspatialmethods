@@ -9,7 +9,7 @@ number: 1200
 
 One of the best examples of spatial thinking was John Snow's cholera map from 1854.  
 
-![John Snow cholera map 1854 - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/johnsnowmap.png){:height="50%" width="50%", .center}
+![John Snow cholera map 1854 - ](https://raw.githubusercontent.com/vkcworkshops/introspatialmethods/gh-pages/img/johnsnowmap.png){:height="60%" width="60%"}
 [Click here for full size image of map](https://www.ph.ucla.edu/epi/snow/snowmap1_highres.pdf)
 
 Discussion:
