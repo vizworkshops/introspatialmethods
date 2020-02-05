@@ -3,7 +3,7 @@ sectionid: tools
 sectionclass: h1
 is-parent: yes
 title: Tools
-number: 4000
+number: 3000
 ---
 
 There is an incredibly rich set of tools and software for creating maps, analyzing and working with geospatial data, and generally visualizing data in and through maps. It is so easy in fact that it is often not a part of the research process to critique and learn more about these tools and their potential impact on your research and findings.  
