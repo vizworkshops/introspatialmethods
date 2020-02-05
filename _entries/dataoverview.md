@@ -3,7 +3,7 @@ sectionid: data overview
 sectionclass: h1
 is-parent: yes
 title: Data Overview
-number: 3000
+number: 2000
 ---
 
 Data is critical to GIS and mapping. There is an incredily rich and diverse world of geospatial data.
